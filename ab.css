@@ -1,0 +1,23 @@
+#clock{
+    width: 1000px;  
+    margin: 80px;
+    text-align: center; 
+    font-family: 'Architects Daughter', cursive;
+    font-size: 120px;  
+    color:rgb(96, 206, 221);     
+}
+#ampm{
+    font-size: 60px;
+    font-style: italic;
+    width: 1000px;  
+    margin: 60px;   
+    color:rgb(40, 27, 41);
+    text-align: center;
+}
+#head{
+    text-align: center;
+    margin: 40px;
+    font-size: 80px;
+    font-family: 'Architects Daughter', cursive;
+    color: black;
+}
